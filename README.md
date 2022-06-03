@@ -6,3 +6,5 @@ The generated data of my process is stored in the following repositories:
 - The used demo files are uploaded here: [csgo_demofiles](https://github.com/julian1198/csgo_demofiles)
 - The parsed data is collected in this repository: [csgo_parsed_data](https://github.com/julian1198/csgo_parsed_data)
 - The trained neural networks are saved in this repository: [csgo_models](https://github.com/julian1198/csgo_models)
+
+For the generation of the pictures I used [HLAE](https://www.advancedfx.org/download/).
